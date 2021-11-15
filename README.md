@@ -10,4 +10,4 @@ Follow these instructions to run the project:
 - Unzip the Content folder to inside the project root directory
 - Open SimpleShooter.uproject and Play
 
-![GamePlay](https://drive.google.com/file/d/1hCK1soK7xWSdVuZujWQBpnH3Q0Dch4SH/view?usp=sharing)
+For game play: https://drive.google.com/file/d/1hCK1soK7xWSdVuZujWQBpnH3Q0Dch4SH/view?usp=sharing
